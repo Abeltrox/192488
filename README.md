@@ -29,3 +29,11 @@ Cuántos sueldos entraron en el rango de la justicia ($100 - $300).
 Cuántos sueldos VIP superaron los $300.
 
 El total acumulado, convertido a float como quien pone perfume antes de entregar el informe.
+
+
+
+
+Esta es la documentaciòn del ejercico ReMal. 
+
+Primeramente me centre en cambiar los nombres de las variables, 
+  
